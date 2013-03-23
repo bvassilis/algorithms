@@ -1,0 +1,8 @@
+constant
+logarithmic
+linear
+loglinear / linearithmic
+quadratic
+polynomial
+exponantial
+factorial
