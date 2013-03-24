@@ -1,0 +1,13 @@
+volatile is a field modifier
+Get a global lock on the variable
+Update the one variable from main memory   
+Write any change of the one variable back to main memory      
+Release the lock
+
+
+while synchronized modifies code blocks and methods
+Get a global lock on the monitor
+Update all shared variables that have been accessed from main memory
+Process some statements
+Write all shared variables that have been changed back to main memory
+Release the lock

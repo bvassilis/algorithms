@@ -1,0 +1,20 @@
+Depth-first
+
+Pre-order:
+Visit the root.
+Traverse the left subtree.
+Traverse the right subtree.
+
+In-order (symmetric):
+Traverse the left subtree.
+Visit the root.
+Traverse the right subtree.
+
+Post-order:
+Traverse the left subtree.
+Traverse the right subtree.
+Visit the root.
+
+
+Breadth-first
+level-order, where we visit every node on a level before going to a lower level.
